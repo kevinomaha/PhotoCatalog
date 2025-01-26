@@ -22,6 +22,12 @@
     <string name="project_thumbnail">Project thumbnail</string>
     <string name="project_options">Project options</string>
     <string name="no_projects">No projects yet</string>
+    <string name="project_cover_image">Project cover image</string>
+    <string name="add_cover_image">Add Cover Image</string>
+    <string name="save">Save</string>
+    <string name="error_project_name_required">Project name is required</string>
+    <string name="error_creating_project">Error creating project</string>
+    <string name="project_created">Project created successfully</string>
     
     <!-- Camera -->
     <string name="take_photo">Take Photo</string>
