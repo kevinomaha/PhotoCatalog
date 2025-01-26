@@ -25,4 +25,12 @@
     <string name="add_location">Add Location</string>
     <string name="add_cost">Add Cost</string>
     <string name="rating">Rating</string>
+    <string name="no_photos">No photos yet</string>
+    <string name="photo_thumbnail">Photo thumbnail</string>
+    <string name="location_indicator">Location indicator</string>
+
+    <!-- Authentication -->
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="auth_error">Authentication failed: %1$s</string>
 </resources>
