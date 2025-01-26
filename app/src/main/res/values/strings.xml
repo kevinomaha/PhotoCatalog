@@ -16,6 +16,12 @@
     <string name="new_project">New Project</string>
     <string name="project_name">Project Name</string>
     <string name="project_description">Description</string>
+    <string name="edit_project">Edit Project</string>
+    <string name="delete_project">Delete Project</string>
+    <string name="delete_project_confirmation">Are you sure you want to delete project "%1$s"? This action cannot be undone.</string>
+    <string name="project_thumbnail">Project thumbnail</string>
+    <string name="project_options">Project options</string>
+    <string name="no_projects">No projects yet</string>
     
     <!-- Camera -->
     <string name="take_photo">Take Photo</string>
@@ -44,3 +50,8 @@
     <string name="sign_out">Sign Out</string>
     <string name="auth_error">Authentication failed: %1$s</string>
 </resources>
+
+<plurals name="photo_count">
+    <item quantity="one">%d photo</item>
+    <item quantity="other">%d photos</item>
+</plurals>
