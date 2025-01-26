@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_projects"
+        android:icon="@drawable/ic_folder"
+        android:title="@string/title_projects" />
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/title_camera" />
+
+    <item
+        android:id="@+id/navigation_photos"
+        android:icon="@drawable/ic_photo"
+        android:title="@string/title_photos" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_settings" />
+</menu>

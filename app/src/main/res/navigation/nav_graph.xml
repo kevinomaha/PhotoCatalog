@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_projects">
+
+    <fragment
+        android:id="@+id/navigation_projects"
+        android:name="com.example.photocatalog.ui.projects.ProjectsFragment"
+        android:label="@string/title_projects" />
+
+    <fragment
+        android:id="@+id/navigation_camera"
+        android:name="com.example.photocatalog.ui.camera.CameraFragment"
+        android:label="@string/title_camera" />
+
+    <fragment
+        android:id="@+id/navigation_photos"
+        android:name="com.example.photocatalog.ui.photos.PhotosFragment"
+        android:label="@string/title_photos" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.photocatalog.ui.settings.SettingsFragment"
+        android:label="@string/title_settings" />
+
+</navigation>

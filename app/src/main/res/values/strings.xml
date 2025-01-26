@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo Catalog</string>
+    <string name="title_projects">Projects</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_photos">Photos</string>
+    <string name="title_settings">Settings</string>
+    
+    <!-- Common -->
+    <string name="error_camera_permission">Camera permission is required</string>
+    <string name="error_location_permission">Location permission is required</string>
+    <string name="error_storage_permission">Storage permission is required</string>
+    
+    <!-- Projects -->
+    <string name="new_project">New Project</string>
+    <string name="project_name">Project Name</string>
+    <string name="project_description">Description</string>
+    
+    <!-- Camera -->
+    <string name="take_photo">Take Photo</string>
+    <string name="switch_camera">Switch Camera</string>
+    
+    <!-- Photos -->
+    <string name="add_comment">Add Comment</string>
+    <string name="add_location">Add Location</string>
+    <string name="add_cost">Add Cost</string>
+    <string name="rating">Rating</string>
+</resources>
