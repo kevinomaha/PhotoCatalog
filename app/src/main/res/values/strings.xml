@@ -32,6 +32,9 @@
     <string name="project_created">Project created successfully</string>
     <string name="project_updated">Project updated successfully</string>
     <string name="error_loading_project">Error loading project</string>
+    <string name="share_project">Share Project</string>
+    <string name="photos">Photos</string>
+    <string name="project_shared">Project shared successfully</string>
     <string name="project_cover_image">Project cover image</string>
     <string name="add_cover_image">Add Cover Image</string>
     <string name="save">Save</string>
